@@ -1,0 +1,67 @@
+.container{
+width: 300px;
+
+}
+.two img{
+    width: 300px;
+    margin-left: 320%;
+    margin-top: -100%;
+}
+.three img{
+   width: 300px;
+   margin-left: 110%;
+   margin-top: -140%;
+}
+.four img{
+   width: 300px;
+   margin-left: 217%;
+   margin-top: -110%;
+}
+.one img{
+    width: 300px;
+}
+.new{
+    margin-left:30%;
+}
+.jean img{
+height: 100vh;
+margin-top: 0%;
+width: 550px;
+}
+.phil img{
+    width: 400px;
+    margin-left: 200%;
+    margin-top: -220%;
+
+}
+.dis{
+    margin-top: 60%;
+    margin-left: 10%;
+}
+.black{
+    background-color: black;
+    color: white;
+    padding-left: 30%,30%,30%,30%;
+}
+.pic1{
+    height: 90vh;
+    width: 400px;
+}
+.pic2{
+    margin-left: 51%;
+    margin-top: -43%;
+    width: 200px;
+}
+.pic3{
+    margin-left: 51%;
+    width: 29px;
+    height: 80%;
+    scale: 60%;
+    margin-top: -5%;
+
+}
+.end{
+    margin-left: 51%;
+    margin-top: -5%;
+    margin-left: 25%;
+}
