@@ -1,24 +1,27 @@
 .container{
 width: 300px;
+margin-top: -0%;
 
 }
 .two img{
     width: 300px;
     margin-left: 320%;
-    margin-top: -100%;
+    margin-top: -130%;
 }
 .three img{
    width: 300px;
    margin-left: 110%;
-   margin-top: -140%;
+   margin-top: -160%;
 }
 .four img{
    width: 300px;
    margin-left: 217%;
-   margin-top: -110%;
+   margin-top: -120%;
 }
 .one img{
     width: 300px;
+margin-top: 20px;
+
 }
 .new{
     margin-left:30%;
@@ -35,13 +38,14 @@ width: 550px;
 
 }
 .dis{
-    margin-top: 60%;
-    margin-left: 10%;
+   padding: 30px;
+   text-align: center;
 }
 .black{
     background-color: black;
     color: white;
     padding-left: 30%,30%,30%,30%;
+    width: 1200px;
 }
 .pic1{
     height: 90vh;
@@ -64,4 +68,28 @@ width: 550px;
     margin-left: 51%;
     margin-top: -5%;
     margin-left: 25%;
+}
+.table{
+    color: white;
+    background-color: black;
+    width: 90px;
+    width: 1200px;
+}
+.buton{
+    padding: 10px;
+    margin: 10px;
+}
+.na{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+.em{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+.navigation{
+    text-align: center;
+    text-decoration: none;
 }
